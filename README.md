@@ -22,3 +22,5 @@ i will write about bioinformatics as from monday 23 to 27 of january 2023
 
 # day 3
 we are learning about github
+
+day 4
